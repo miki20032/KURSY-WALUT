@@ -1,0 +1,1 @@
+Aplikacja, która za pomocą dowolnego api (można spróbować np. z http://api.nbp.pl/) pobiera oraz wyświetla użytkownikowi kursy walut. Użytkownik powinien mieć do dyspozycji listę walut (przynajmniej 6 do wyboru), a obok wyświetlany powinien być kurs aktualnie zaznaczonej przez niego waluty.
